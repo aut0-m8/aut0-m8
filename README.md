@@ -1,17 +1,5 @@
 # [my tools](https://aut0-m8.github.io/tools/)
 
-<p><img src="https://github.com/aut0-m8/bashset/blob/main/.github/bashset.png?raw=true" alt="bashset logo" width="200"></p>
-
-# `bashset`
-
-Cross-package-manager automation script for Bash.
-Currently in **BETA**. Script will not do anything. This message will be removed once the project exits beta.
-
-### to run
-1. `curl https://aut0-m8.github.io/bashset/run.sh | bash`
-
----
-
 <p><img src="https://raw.githubusercontent.com/aut0-m8/pwshset/main/.github/pwshset.png" alt="pwshset logo" width="200"></p>
 
 # `pwshset`
@@ -23,3 +11,11 @@ Currently under **BETA**. Check release tag 1.1.0 to see what running the script
 ### to run
 1. Open PowerShell as Administrator
 2. `irm https://aut0-m8.github.io/pwshset | iex`
+
+---
+
+# freestuffs
+Website that hosts downloads to free useful software, such as Windows LTSC, Adobe Creative Suite, macOS 14, etc.
+
+<strong>LEGAL DISCLAIMER:</strong>
+NONE OF THIS SOFTWARE IS HOSTED ON THE WEBSITE ITSELF.
