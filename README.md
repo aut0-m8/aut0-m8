@@ -1,6 +1,6 @@
 # [my tools](https://aut0-m8.github.io/tools/)
 
-# freestuff
+# [freestuff](https://aut0-m8.github.io/freestuff)
 Website that hosts downloads to free and crаcked useful software
 
 <strong>LEGAL DISCLAIMER:</strong>
